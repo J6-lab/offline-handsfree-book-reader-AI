@@ -37,9 +37,12 @@ Voice commands control reading
 
 Progress is saved automatically
 
+
+
 🖥️ Installation (Linux)
-chmod +x setup.sh
-./setup.sh
+
+          chmod +x setup.sh
+          ./setup.sh
 
 
 This installs:
@@ -50,8 +53,11 @@ Audio & speech dependencies
 
 Required Python libraries
 
+
+
 ▶️ Running the Application
-python3 app.py
+
+        python3 main.py
 
 
 The application starts listening for voice commands.
