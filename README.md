@@ -41,19 +41,19 @@ Progress is saved automatically
 
 🖥️ Installation (Linux)
 
-py -3.11 -m venv my1
-my1\Scripts\activate
-pip install --upgrade pip
-pip install PyAudio
-pip install pytesseract
-pip install opencv-python
-pip install pdfplumber
-pip install python-docx
-pip install langdetect
-pip install psutil
-pip install vosk
-pip install mediapipe==0.10.9
-pip install PyAutoGUI
+    py -3.11 -m venv my1
+    my1\Scripts\activate
+    pip install --upgrade pip
+    pip install PyAudio
+    pip install pytesseract
+    pip install opencv-python
+    pip install pdfplumber
+    pip install python-docx
+    pip install langdetect
+    pip install psutil
+    pip install vosk
+    pip install mediapipe==0.10.9
+    pip install PyAutoGUI
 
 
 This installs:
