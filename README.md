@@ -41,6 +41,9 @@ Progress is saved automatically
 
 🖥️ Installation (Linux)
 
+
+    git clone https://github.com/J6-lab/offline-handsfree-book-reader-AI
+    cd offline-handsfree-book-reader-AI
     py -3.11 -m venv my1
     my1\Scripts\activate
     pip install --upgrade pip
